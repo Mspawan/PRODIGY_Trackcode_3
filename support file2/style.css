@@ -1,0 +1,48 @@
+td {
+	border:  2px solid #333;
+	height:  100px;
+	width:  100px;
+	text-align:  center;
+	vertical-align:  middle;
+	font-family:  "Comic Sans MS", cursive, sans-serif;
+	font-size:  70px;
+	cursor: pointer;
+}
+
+
+
+table {
+	border-collapse: collapse;
+	position: absolute;
+	left: 50%;
+	margin-left: -155px;
+	top: 100px;
+}
+
+
+
+
+.Replay{
+  height: 50px;
+  width: 120px;
+  margin-left: 46%;
+  margin-top: 35%;
+  background-color: black;
+  color: aliceblue;
+
+}
+.endgame {
+  display: none;
+  margin-left: 45%;
+  margin-top: 1%;
+  color: black;
+  font-size: 35px;
+}
+
+
+
+
+
+
+
+
